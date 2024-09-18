@@ -51,7 +51,7 @@ function App() {
           We’re here to answer your questions. Reach out to us anytime.
         </p>
         <a
-          href="mailto:contact@goalgrid.com"
+          href="mailto:contact@goalgrid.net"
           className="px-8 py-4 bg-green-600 text-white text-lg font-semibold rounded-full shadow-md hover:bg-green-700 transition duration-300"
         >
           Email Us
